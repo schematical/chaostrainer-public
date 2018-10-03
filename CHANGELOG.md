@@ -1,6 +1,10 @@
 # Change Log:
 
+
+
 ## 0.0.3 - 10/3/18
+Fix https://github.com/schematical/chaostrainer-public/issues/8
+Flipped score on Bot Detail for realtime score and gave info when maxLife is increased or maxSpawnCount
 Added in `yMultiplier` to GUI
 Add in DisplaySettingsConfig screen to optimize performance graphically
 
@@ -17,3 +21,5 @@ Added a display settings config screen(Tile Shadows dont work yet, and the debug
 
 ## 0.0.1 - 10/2/18
 Released Alpha
+
+
