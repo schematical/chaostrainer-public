@@ -10,13 +10,13 @@
 ## Step 2:
 Open the zip and find your distro of choice
 ### Windows:
-[./ChaosTrainerWin/ChaosTrainer.exe](./ChaosTrainerWin/ChaosTrainer.exe)
+[./ChaosTrainerWin/ChaosTrainer.exe](./ChaosTrainerWin)
 
 ### Mac OSX:
-[./ChaosTrainerMac](./ChaosTrainerMac)
+[./ChaosTrainerMac/ChaosTrainerMac](./ChaosTrainerMac)
 
 ### Linux:
-[./ChaosTrainerLinux.x86](ChaosTrainerLinux.x86)
+[./ChaosTrainerLinux/ChaosTrainerLinux.x86](./ChaosTrainerLinux)
 
 
 ## Step 3:
