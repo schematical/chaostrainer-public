@@ -1,5 +1,16 @@
 # Change Log:
 
+## 0.0.5 - 10/9/18
+Fixed breeding bug
+Added object pooling for performance
+Added .25 sec spawn throddle for performance
+
+## 0.0.4 - 10/4/18
+
+Fixed shadows on tiles
+Added LevelBuilderSelectedTileScreen
+Began working on trigger system for more complex puzzles
+
 
 
 ## 0.0.3 - 10/3/18
