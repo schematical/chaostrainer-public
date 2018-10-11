@@ -1,5 +1,10 @@
 # Change Log:
 
+## 0.0.6 - 10/11/18
+Garbage Collector overhaul attempt #1
+Fixed save loading
+Moved speed to bot biology
+
 ## 0.0.5 - 10/9/18
 Fixed breeding bug
 Added object pooling for performance
