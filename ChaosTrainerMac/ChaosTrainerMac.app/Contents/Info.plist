@@ -12,7 +12,7 @@
 	<key>CFBundleExecutable</key>
 	<string>ChaosTrainerMac</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Unity Player version 2018.2.10f1 (674aa5a67ed5). (c) 2018 Unity Technologies ApS. All rights reserved.</string>
+	<string>Unity Player version 2018.2.11f1 (38bd7dec5000). (c) 2018 Unity Technologies ApS. All rights reserved.</string>
 	<key>CFBundleIconFile</key>
 	<string>PlayerIcon.icns</string>
 	<key>CFBundleIdentifier</key>
@@ -38,7 +38,7 @@
 	<key>NSPrincipalClass</key>
 	<string>PlayerApplication</string>
 	<key>UnityBuildNumber</key>
-	<string>674aa5a67ed5</string>
+	<string>38bd7dec5000</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.9.0</string>
 </dict>

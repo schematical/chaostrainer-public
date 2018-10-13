@@ -1,4 +1,9 @@
 # Change Log:
+## 0.0.7 - 10/12/18
+Overhauled the GC again with better results
+Fixed some debug UI
+Added a FireBall entity and input neurons for that
+Added eye vision caching to speed up processing
 
 ## 0.0.6 - 10/11/18
 Garbage Collector overhaul attempt #1
