@@ -1,4 +1,7 @@
 # Change Log:
+## 0.0.8 - 10/13/18
+Fixed level save bug with toggling with the Play button
+
 ## 0.0.7 - 10/12/18
 Overhauled the GC again with better results
 Fixed some debug UI
