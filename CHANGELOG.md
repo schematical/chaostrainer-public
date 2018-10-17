@@ -1,4 +1,12 @@
 # Change Log:
+
+## 0.0.9 - 10/17/18
+Fixed vision bug introduced during GC mania
+Added stats screen
+COnverted nNetPanel back to lines, made alpha lower and easier to debug
+Made time slow to a full stop(mainly for debug)
+Added more debug for time ticks on NNets
+
 ## 0.0.8 - 10/13/18
 Fixed level save bug with toggling with the Play button
 
