@@ -1,5 +1,14 @@
 # Change Log:
 
+## 0.0.10 - 10/22/18
+Added brainMakerConfig var to control interspecies breeding vs same species breeding
+
+Added an experimental backPropigation reward/penalty system
+
+Added a bare bones challenge mode(No stats' end screen).
+
+Decreased lava damage slightly(to give bots a chance to learn from the BackPropigation).
+
 ## 0.0.9 - 10/17/18
 Fixed vision bug introduced during GC mania
 Added stats screen
