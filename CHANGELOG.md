@@ -1,4 +1,9 @@
 # Change Log:
+## 0.0.11 - 10/26/18:
+Added double check to see if a child is too similar to its parents.
+
+Made mutation rates dynamic to avoid plattueing of species
+
 
 ## 0.0.10 - 10/22/18
 Added brainMakerConfig var to control interspecies breeding vs same species breeding
