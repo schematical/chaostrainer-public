@@ -1,4 +1,10 @@
 # Change Log:
+
+## 0.0.12 - 10/29/18:
+Fixing up Challenge mode
+Changed a bunch of inaccurate float numbers to `decimal` numbers
+Moved a bunch of enumeratied values to config files
+
 ## 0.0.11 - 10/26/18:
 Added double check to see if a child is too similar to its parents.
 

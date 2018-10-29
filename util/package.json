@@ -1,0 +1,18 @@
+{
+  "name": "chaostrainer-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "botControllerFixer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "underscore": "^1.9.1"
+  },
+  "bin":{
+     "ctrainer":"botControllerFixer.js"
+  }
+}
