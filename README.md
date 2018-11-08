@@ -40,6 +40,7 @@ Then feel free to post those logs to our [Github Issue Tracker](https://github.c
 - Press + to increase the time scale.
 - Press - to decrease the time scale.
 
+
 ### Edit mode:
 - If mode is set to "place object" holding left mouse button and dragging will show an area and on release of the mouse button this - area will be filled by the selected tile.
 - If mode is set to "move camera" holding left mouse button and dragging will work the same as in play mode.
@@ -48,8 +49,9 @@ Then feel free to post those logs to our [Github Issue Tracker](https://github.c
 ### Challenge mode:
 - Same as in play mode, except q, e, + and - don't seem to work. May be a bug in V0.0.11
 
-### Every mode:
+### Hidden Alpha Commands mode:
 - Press d to open debug menu
-
+- Press C in Training Mode to go to Cinematic Mode.
+- Press M in Training Mode to exit Cinematic Mode.
 # Change Log:
 [./CHANGELOG.md](./CHANGELOG.md)

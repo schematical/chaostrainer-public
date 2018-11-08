@@ -1,4 +1,11 @@
 # Change Log:
+## 0.0.13 - 11/8/18:
+- Complete UI Overhaul(about 2/3 complete)
+- Esc button now should reset menu
+- "C" button triggers Cinematic mode
+- "M" button ends Cinematic mode and resets camera
+- Import Species button
+- Touched up Challenge mode but still not complete UI wise
 
 ## 0.0.12 - 10/29/18:
 Fixing up Challenge mode
