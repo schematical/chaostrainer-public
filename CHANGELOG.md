@@ -1,4 +1,8 @@
 # Change Log:
+## 0.0.14 - 11/17/18:
+- Made eyes vision cone shaped poloycolliders
+- Removed scriptable objectds
+
 ## 0.0.13 - 11/8/18:
 - Complete UI Overhaul(about 2/3 complete)
 - Esc button now should reset menu
