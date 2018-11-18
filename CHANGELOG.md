@@ -1,4 +1,8 @@
 # Change Log:
+## 0.0.15 - 11/18/18:
+- Better separated species bonus  spawn allocation from the regular species number.
+
+
 ## 0.0.14 - 11/17/18:
 - Made eyes vision cone shaped poloycolliders
 - Removed scriptable objectds
