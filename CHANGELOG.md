@@ -1,4 +1,9 @@
 # Change Log:
+## 0.0.16 - 11/26/11:
+- Made visual inputs without not visible target ruturn a value of -1 instead of a ZERO. 
+- Added automatic bot mutation of eyes. TODO: Make this a setting.
+
+
 ## 0.0.15 - 11/18/18:
 - Better separated species bonus  spawn allocation from the regular species number.
 
