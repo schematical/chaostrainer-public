@@ -1,5 +1,8 @@
 # Change Log:
-## 0.0.16 - 11/26/11:
+## 0.0.17 - 11/30/18:
+- Made it so vision polycolliders no longer eat up physics processing time
+
+## 0.0.16 - 11/26/18:
 - Made visual inputs without not visible target ruturn a value of -1 instead of a ZERO. 
 - Added automatic bot mutation of eyes. TODO: Make this a setting.
 
